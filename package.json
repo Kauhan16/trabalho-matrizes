@@ -1,0 +1,22 @@
+{
+  "name": "trabalho-web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
+    "v-mask": "^2.3.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
